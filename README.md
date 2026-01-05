@@ -1,9 +1,17 @@
-# hihi!! welcome to my github 
-random kid just figuring stuff out so here goes 🍃
+# hihi!! welcome to my github 👋 
+
+student who stumbles upon thinks and tinkers a lot, here goes 🍃
 
 **stuff about me:**
-1. i like ikea. not the furniture i js really like the vibe idk.
-2. i have no clue why my username is chaiholico... i really just put something
-3. i'm learning java + bash (do not reccomend), kinda know python and cpp but forgor
+1. cyberpatriot and mit battlecode grind 
+3. tennis, art, reading, coding
+4. crime & punishment by Dostoevsky. peak.
+
+**languages**
+1. java
+2. bash (learning)
+3. python (forgot)
+4. c++ (forgot)
+
 
 >  building experience drop by drop... let's see where i wind up 🌧️
